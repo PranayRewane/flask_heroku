@@ -1,7 +1,5 @@
 Flask==1.1.1
 gunicorn==19.9.0
-itsdangerous==1.1.0
-Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.9.2
@@ -30,7 +28,6 @@ frozendict==1.2
 future==0.18.2
 gast==0.3.3
 google-pasta==0.2.0
-googlemaps==4.4.2
 grpcio==1.32.0
 h5py==2.10.0
 idna==2.10
@@ -44,7 +41,6 @@ Keras==2.4.3
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 Markdown==3.3.3
-MarkupSafe==1.1.1
 mathparse==0.1.2
 matplotlib==3.2.1
 murmurhash==1.0.4
@@ -93,7 +89,6 @@ tqdm==4.54.0
 typing-extensions==3.7.4.3
 urllib3==1.25.11
 wasabi==0.8.0
-Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.4.0
 html5lib
