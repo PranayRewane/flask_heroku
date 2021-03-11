@@ -2,9 +2,7 @@ Flask==1.1.1
 gunicorn==19.9.0
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-numpy>=1.9.2
 scipy>=0.15.1
-scikit-learn>=0.18
 pandas>=0.19
 absl-py==0.11.0
 astunparse==1.6.3
@@ -72,7 +70,6 @@ rsa==4.6
 schema==0.6.7
 scikit-image==0.17.2
 scikit-learn==0.23.1
-scipy==1.4.1
 six==1.15.0
 soupsieve==2.0.1
 spacy==2.3.4
