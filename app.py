@@ -25,7 +25,7 @@ def predict():
     else:
         prediction="a phishing site"
     
-    print(prediction)
+    
 
     #output = round(prediction[0], 2)
     return render_template('index1.html', prediction_text=prediction)
@@ -33,7 +33,7 @@ def predict():
 @app.route('/')
 def homepage():
 	title = "TEXT summarizer"
-	return render_template('index1.html', title = title)
+	return render_template('index1.html')
 
 if __name__ == "__main__":
 	app.debug = True
