@@ -2,7 +2,7 @@
 import numpy as np
 
 from flask import Flask, request, jsonify, render_template
-import detect_features
+# import detect_features
 import pickle
 # nltk.download('stopwords')
 
