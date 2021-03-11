@@ -89,7 +89,7 @@ wrapt==1.12.1
 zipp==3.4.0
 html5lib
 lxml
-googlesearch
+google-search
 
 
 
